@@ -244,7 +244,7 @@ export default {
         'Ramos Enriquez, H. F., & Quiroga Amaya, L. A. (2017). <em>Investigación de Accidentes de Tránsito en Colombia</em>. Bogotá: Imprenta Nacional.',
       tipo: 'Libro',
       link:
-        'https://www.policia.gov.co/contenido/investigacion-accidentes-transito-colombia',
+        'downloads/libro-investigacion-accidentes-de-transito-en-colombia.pdf',
     },
     {
       tema: 'Normatividad de los accidentes de tránsito',
@@ -259,8 +259,7 @@ export default {
       referencia:
         'Fiscalía General de la Nación. (abril 18 de 2018). Manual del sistema de cadena de custodia. <em>Manual de cadena de custodia</em>. Bogotá , Colombia: Imprenta Nacional.',
       tipo: 'Manual',
-      link:
-        'https://www.fiscalia.gov.co/colombia/wp-content/uploads/MANUAL-DEL-SISTEMA-DE-CADENA-DE-CUSTODIA.pdf',
+      link: 'downloads/manual-del-sistema-de-cadena-de-custodia.pdf',
     },
     {
       tema: 'Diligenciamiento del IPAT',
@@ -337,7 +336,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: '',
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Animador y Productor Multimedia',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -366,7 +365,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Daniel Ricardo Mutis',
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',

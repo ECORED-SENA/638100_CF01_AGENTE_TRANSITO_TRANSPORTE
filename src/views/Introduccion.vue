@@ -19,8 +19,8 @@
               p.mb-0 Tenga una cordial bienvenida al estudio del componente formativo “Investigación de accidentes de tránsito”. Este contenido ha sido diseñado especialmente para usted. Comience observando con atención el video que, a continuación, se propone. ¡Adelante!
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video. Título del video.
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/JfkbV7rW2io" title="Investigación de accidentes de tránsito" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video. Investigación de accidentes de tránsito
 </template>
 
 <script>

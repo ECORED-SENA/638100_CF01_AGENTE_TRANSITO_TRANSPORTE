@@ -11,7 +11,7 @@
       .col-lg-8.mb-4.mb-lg-0
         p Reconocer el lugar de los hechos es la primera actividad de policía judicial en un accidente de tránsito. Hace parte de las diligencias de recepción de la escena que se hace cuando el primer responsable entrega formalmente mediante formato y de manera presencial.
         p Allí, informa todos los pormenores de sus actuaciones, especialmente sobre las diligencias adelantadas con los elementos materiales de prueba y/o evidencia física, para lo cual, es necesario que las autoridades de policía judicial que lo reciban, en este caso el coordinador, realicen preguntas al respecto que orienten sobre: en qué momento recibió la noticia criminal, cuándo llegó al lugar, entre otras, teniendo presente que en el tiempo que tardó, pudieron ocurrir varias eventualidades que van a afectar la inspección técnica.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema2/img1.png', style="width: 550px" ,alt='').m-auto
     .row.justify-content-center.mb-5
@@ -20,16 +20,17 @@
           .col-12.bg-c4
             .p-4
               .row
-                .col-auto
-                  figure
+                .col-md-auto.col-xs-12
+                  figure.mb-3.mb-md-0
                     img(src='@/assets/curso/tema2/img1.svg', style="width: 70px" ,alt='').m-auto
-                .col
+                .col-md.col-xs-12
                   p Los métodos de búsqueda parten de un procedimiento progresivo que se hace en la escena del crimen y que tiene por objetivo principal, la ubicación, fijación, recolección y tratamiento de los elementos materiales de prueba y evidencia física.
                   p.mb-0 La escogencia de un método adecuado coadyuvará en el establecimiento de hipótesis, la formulación y planeación de la investigación, la dilucidación de las escenas tempo-espaciales del accidente, la organización del proceso investigativo, la secuencia que deben llevar los funcionarios de policía judicial al ingresar al lugar de los hechos, tales como el fotógrafo y topógrafo judiciales.
     p.mb-5 En relación con las generalidades y aspectos clave de los métodos de búsqueda, tenga presente:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DgQRwx-z4ME" title="Métodos de búsqueda en investigación de accidentes de tránsito" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Métodos de búsqueda en investigación de accidentes de tránsito
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure

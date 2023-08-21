@@ -11,7 +11,7 @@
       .col-lg-8.mb-4.mb-lg-0
         p La actuación más importante en el conocimiento de accidentes de tránsito, es el diligenciamiento del informe policial de accidentes de tránsito IPAT, el cual se reglamenta en la Resolución 0011268 de 2012, en cumplimiento de los artículos 144 y 149 de la Ley 769 de 2002.
         p.mb-0 A continuación, conozca y profundice en algunos apartes relevantes para el diligenciamiento del informe policial de accidentes de tránsito:
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema4/img1.png', style="width: 450px" ,alt='').m-auto
     .tarjeta.tarjeta--azul

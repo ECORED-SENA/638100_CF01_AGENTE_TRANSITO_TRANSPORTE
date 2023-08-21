@@ -15,10 +15,10 @@
           .col-12.bg-c4
             .p-4
               .row
-                .col-auto
-                  figure
+                .col-md-auto.col-xs-12
+                  figure.mb-3.mb-md-0
                     img(src='@/assets/curso/tema2/img1.svg', style="width: 70px" ,alt='').m-auto
-                .col
+                .col-md.col-xs-12
                   p.mb-0 El tratamiento que se da al lugar de los hechos tiene una transversalización de suma importancia en la investigación criminal y el desarrollo del sistema de justicia, por cuanto las decisiones judiciales parten de indicios, investigaciones y reconstrucciones acertadas y determinantes sobre el hecho delictivo.
         p.mb-0 Los accidentes de tránsito son eventos generalmente involuntarios, pero no pierden la connotación de hecho delictivo cuanto su incidencia involucra delitos como las lesiones, homicidios o simple daños en bien ajeno.
       .col-lg-4
@@ -229,80 +229,70 @@
                   img(src='@/assets/curso/tema3/img2.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 01. Actuación]
-                    p.text-center Es la primera autoridad que llega al caso e interactúa de cualquier manera en el lugar de los hechos.
-            .tarjeta.color-secundario
-              .row.justify-content-center
-                .col-12
-                  img(src='@/assets/curso/tema3/img2.png' alt='AvatarTop')
-                .col-12
-                  .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Deber preservar el lugar de los hechos o escena y todos los EMP y EF tales como vehículos, huellas, vestigios, occisos.
+                    p.text-center #[strong 1.] Es la primera autoridad que llega al caso e interactúa de cualquier manera en el lugar de los hechos.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img3.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Asegurar el lugar para evitar que ocurra otro siniestro teniendo en cuenta que las carreteras son lugares de alta peligrosidad, tanto para las personas como para las autoridades.
+                    p.text-center #[strong 2.] Deber preservar el lugar de los hechos o escena y todos los EMP y EF tales como vehículos, huellas, vestigios, occisos.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img4.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Debe evacuar heridos, asegurar el lugar y acordonar la escena del crimen con barreras físicas, prueba y evidencia física, comunicación a la autoridad de policía judicial competente, diligenciar el formato de primer responsable FPJ-04.
+                    p.text-center #[strong 3.] Asegurar el lugar para evitar que ocurra otro siniestro teniendo en cuenta que las carreteras son lugares de alta peligrosidad, tanto para las personas como para las autoridades.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img5.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center No debe retirarse del lugar de los hechos hasta tanto la autoridad de Policía Judicial autorice su retiro, prestar apoyo en el caso, con labores de seguridad y aseguramiento de los EMP y EF, evitando que personas lleguen a contaminar la escena.
+                    p.text-center #[strong 4.] Debe evacuar heridos, asegurar el lugar y acordonar la escena del crimen con barreras físicas, prueba y evidencia física, comunicación a la autoridad de policía judicial competente, diligenciar el formato de primer responsable FPJ-04.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img6.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Realizar el  protocolo de protección preservación y entrega del lugar de los hechos.
+                    p.text-center #[strong 5.] No debe retirarse del lugar de los hechos hasta tanto la autoridad de Policía Judicial autorice su retiro, prestar apoyo en el caso, con labores de seguridad y aseguramiento de los EMP y EF, evitando que personas lleguen a contaminar la escena.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img7.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Instalar el puesto de mando y las autoridades encargadas de procesar la escena.
+                    p.text-center #[strong 6.] Realizar el  protocolo de protección preservación y entrega del lugar de los hechos.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img8.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Instalar los dispositivos de señalización en evento de tránsito como lo reglamenta el manual de señalización vial en el numeral 8.6.1. Accidente de tránsito.
+                    p.text-center #[strong 7.] Instalar el puesto de mando y las autoridades encargadas de procesar la escena.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img9.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Realizar una planeación de emergencia estableciendo rutas y normas.
+                    p.text-center #[strong 8.] Instalar los dispositivos de señalización en evento de tránsito como lo reglamenta el manual de señalización vial en el numeral 8.6.1. Accidente de tránsito.
             .tarjeta.color-secundario
               .row.justify-content-center
                 .col-12
                   img(src='@/assets/curso/tema3/img10.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[b 02. Actuación]
-                    p.text-center Activar las líneas de emergencia, rutas de evacuación salidas normales y salidas de emergencia, avisos de emergencias, y punto de encuentro entre el primer y segundo acordonamiento.
+                    p.text-center #[strong 9.] Realizar una planeación de emergencia estableciendo rutas y normas.
+            .tarjeta.color-secundario
+              .row.justify-content-center
+                .col-12
+                  img(src='@/assets/curso/tema3/img11.png' alt='AvatarTop')
+                .col-12
+                  .p-4
+                    p.text-center #[strong 10.] Activar las líneas de emergencia, rutas de evacuación salidas normales y salidas de emergencia, avisos de emergencias, y punto de encuentro entre el primer y segundo acordonamiento.
     Separador
     #t_3_2
     .titulo-segundo.color-acento-contenido
@@ -398,10 +388,10 @@
           .col-12.bg-c4
             .p-4
               .row
-                .col-auto
-                  figure
+                .col-md-auto.col-xs-12
+                  figure.mb-3.mb-md-0
                     img(src='@/assets/curso/tema2/img1.svg', style="width: 70px" ,alt='').m-auto
-                .col
+                .col-md.col-xs-12
                   p Es importante comprender que los servidores públicos encargados de llevar a cabo esta labor, pueden ser tanto agentes de tránsito como policías de tránsito, dentro de su competencia y jurisdicción y para ambos casos, las capacidades deben ser las mismas.
                   p.mb-0 En cualquier caso, deberán estar cualificados tanto en materia cognitiva como tecnológica, para diligenciar la documentación fotográfica y para llevar a cabo un procedimiento progresivo y ordenado, desde una perspectiva panorámica hasta llegar a cada uno de los EMP y EF.
     p La documentación fotográfica del accidente de tránsito, es un protocolo de la fiscalía denominado documentación fotográfica del lugar de los hechos, y es de vital importancia ya que las tomas realizadas a las evidencias y al lugar de los hechos se convertirán en evidencia demostrativa que les permitirá a los intervinientes en el proceso penal, reconocer lo observado por los investigadores el día de los hechos, siendo la herramienta básica para la toma de datos una cámara fotográfica.
@@ -518,34 +508,34 @@
           .col-12.bg-c4
             .p-4
               .row
-                .col-auto
-                  figure
+                .col-md-auto.col-xs-12
+                  figure.mb-3.mb-md-0
                     img(src='@/assets/curso/tema2/img1.svg', style="width: 70px" ,alt='').m-auto
-                .col
+                .col-md.col-xs-12
                   p.mb-0 La topografía es, entonces, una ciencia que estudia el conjunto de procedimientos para determinar las posiciones de puntos sobre la superficie de la tierra, por medio de medidas según los tres elementos del espacio: dos distancias y una elevación, o una distancia, o una dirección y una elevación.
     p.mb-5 Consecuentemente, la topografía judicial para investigación de accidentes de tránsito, afianza en dos de sus ramas que son:
     .row.bg-c3.mb-5
       .col-12
         .px-5.pb-5
-          .row.justify-content-center
-            .col-10.col-lg.m-2
+          .row.justify-content-center.align-items-stretch
+            .col-10.col-lg.m-2.bg-color-secundario.br-bottom
               .row
-                .col-12.px-0
+                .col-12.px-0.bg-white
                   figure
                     img(src='@/assets/curso/tema3/img26.png', style="width: 650px" ,alt='').m-auto
-                .col-12.bg-c2
+                .col-12
                   .p-4
                     p #[b La planimetría judicial]
-                    p.mb-0 Que se encarga de representar gráficamente el escenario del crimen, teniendo en cuenta únicamente su proyección sobre el plano horizontal imaginario.
-            .col-10.col-lg.m-2
+                    p.mb-1 Que se encarga de representar gráficamente el escenario del crimen, teniendo en cuenta únicamente su proyección sobre el plano horizontal imaginario.
+            .col-10.col-lg.m-2.bg-color-secundario.br-bottom
               .row
-                .col-12.px-0
+                .col-12.px-0.bg-white
                   figure
                     img(src='@/assets/curso/tema3/img27.png', style="width: 650px" ,alt='').m-auto
-                .col-12.bg-c2
+                .col-12
                   .p-4
                     p #[b La altimetría judicial]
-                    p.mb-0 Que representa gráficamente el escenario del crimen teniendo en cuenta sus diferencias de nivel o altura, de tal manera que sea fácil y perceptible, a simple vista, empleando los perfiles que comprenden alineamientos visuales y trayectorias.
+                    p.mb-1 Que representa gráficamente el escenario del crimen teniendo en cuenta sus diferencias de nivel o altura, de tal manera que sea fácil y perceptible, a simple vista, empleando los perfiles que comprenden alineamientos visuales y trayectorias.
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure

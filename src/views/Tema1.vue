@@ -3,19 +3,19 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Generalidades del accidente de tránsito
     .row.align-items-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
-        p La accidentalidad vial constituye uno de los más importantes impactos sociales y económicos de la movilidad urbana y rural y uno de los principales problemas sobre salud pública a nivel mundial. Los costos sociales de las muertes y lesiones personales fruto de la accidentalidad vial son incalculables.
-        p No obstante, en términos económicos las consecuencias representan una gran afectación al sistema de salud, derivando, estos daños, de manera colateral en la inversión social en el desarrollo en general.
+      .col-xl-8.mb-4.mb-lg-0
+        p(data-aos="fade-right") La accidentalidad vial constituye uno de los más importantes impactos sociales y económicos de la movilidad urbana y rural y uno de los principales problemas sobre salud pública a nivel mundial. Los costos sociales de las muertes y lesiones personales fruto de la accidentalidad vial son incalculables.
+        p(data-aos="fade-left") No obstante, en términos económicos las consecuencias representan una gran afectación al sistema de salud, derivando, estos daños, de manera colateral en la inversión social en el desarrollo en general.
         p Entre los aspectos más generales y claves relacionados con los accidentes de tránsito, tenga presente:
-      .col-lg-4
-        figure
+      .col-xl-4.d-none.d-xl-block
+        figure(data-aos="flip-up")
           img(src='@/assets/curso/tema1/img1.png', style="width: 550px" ,alt='').m-auto
-    .tarjeta.tarjeta--azul.mb-5
+    .tarjeta.tarjeta--azul.mb-5(data-aos="fade-left")
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row
@@ -67,13 +67,13 @@
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema1/img8.png', style="width: 450px" ,alt='').m-auto
-    p Investigar un accidente de tránsito es una actuación de policía judicial y es por ello que el código de procedimiento penal colombiano, adjudicó funciones de policía judicial de manera permanentes de manera especial a las autoridades de tránsito, quienes dentro del proceso penal y en el ámbito de su competencia deben realizar los procedimientos amparados en la ley y conforme a los protocolos existentes que se enmarcan en un amplio campo jurídico.
-    p.mb-5 En relación con la investigación de accidentes de tránsito y la forma en que esta debe ser abordada, considere:
+    p(data-aos="fade-left") Investigar un accidente de tránsito es una actuación de policía judicial y es por ello que el código de procedimiento penal colombiano, adjudicó funciones de policía judicial de manera permanentes de manera especial a las autoridades de tránsito, quienes dentro del proceso penal y en el ámbito de su competencia deben realizar los procedimientos amparados en la ley y conforme a los protocolos existentes que se enmarcan en un amplio campo jurídico.
+    p.mb-5(data-aos="fade-right") En relación con la investigación de accidentes de tránsito y la forma en que esta debe ser abordada, considere:
     .row.bg-c3
       .col-12
         .px-5.pb-5
           .row.justify-content-center
-            .col-10.col-lg.m-2
+            .col-10.col-lg.m-2(data-aos="fade-left")
               .row
                 .col-12.px-0
                   figure
@@ -82,7 +82,7 @@
                   .p-4
                     p #[b Procedimientos]
                     p.mb-0 La investigación de accidentes de tránsito se concibe como un conjunto de procedimientos que se llevan a cabo, sistemáticamente y de manera ordenada, bajo argumentos lógicos y coherentes, que mediante las ciencias y la técnica buscan la explicación más acertada del origen y causas del accidente, así como su fenomenología.
-            .col-10.col-lg.m-2
+            .col-10.col-lg.m-2(data-aos="fade-right")
               .row
                 .col-12.px-0
                   figure
@@ -93,21 +93,21 @@
                     p.mb-0 Todo proceso investigativo debe mantener una metodología y seguir estrictamente una secuencia lógica, especialmente cuando se trate de investigación criminal, cuyo propósito es, obviamente, develar a través de las causas, quién es el sujeto perpetuador de las acciones que dieron origen a los hechos. Para atribuirle, así mismo, la responsabilidad penal y todas las consecuencias jurídicas que ello implica.
     Separador
     #t_1_1
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Marco jurídico del accidente de tránsito
     p.mb-5 El accidente de tránsito es considerado un evento generalmente involuntario, generado al menos por un vehículo en movimiento que causa daños a personas y bienes involucrados en él e igualmente suele afectar la normal circulación de otros vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho. (Congreso Nacional, 2002).
     .row.justify-content-center.mb-5
       .col-lg-10.bg-c4
         .p-4
           .row.align-items-center
-            .col-auto
+            .col-auto.d-none.d-md-block
               figure
                 img(src='@/assets/curso/tema1/img3.svg', style="width: 60px" ,alt='').m-auto
             .col
-              p.mb-0 Es importante tener en cuenta que en un accidente siempre estará implicado al menos un vehículo en movimiento, refiriéndose a “vehículo” como todo aquel elemento montado sobre ruedas, sin importar si es de tracción motora, humana o animal que permite el transporte de personas, animales o cosas de un punto a otro por vía terrestre pública o privada abierta al público.
+              p.mb-0(data-aos="fade-left") Es importante tener en cuenta que en un accidente siempre estará implicado al menos un vehículo en movimiento, refiriéndose a “vehículo” como todo aquel elemento montado sobre ruedas, sin importar si es de tracción motora, humana o animal que permite el transporte de personas, animales o cosas de un punto a otro por vía terrestre pública o privada abierta al público.
     p.mb-5 En cuanto al marco jurídico de accidentes de tránsito, tenga en cuenta algunos aspectos clave, como los que se presentan a continuación:
     .row
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="fade-right")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -116,7 +116,7 @@
             .col
               p #[b Derechos ciudadanos]
               p.mb-0 Uno de los derechos fundamentales en Colombia es la libre locomoción, desde la concepción de este ejercicio en el artículo 24 Constitución Política de 1991 el cual, bajo el tenor de la letra proclama que “todo colombiano, con las limitaciones que establezca la ley, tiene derecho a circular libremente por el territorio nacional, a entrar y salir de él, y a permanecer y residenciarse en Colombia”.
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="fade-left")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -125,7 +125,7 @@
             .col
               p #[b Lo público es propiedad de todos]
               p.mb-0 Bajo esta premisa, los colombianos tienen la garantía de usar las vías públicas en todo el territorio nacional, sin importar bajo qué medio, modo o rol, como actor de tránsito (peatón, pasajero, conductor o acompañante).
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="fade-right")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -134,7 +134,7 @@
             .col
               p #[b Limitantes de ley]
               p.mb-0 La misma Constitución advierte que este derecho, del cual gozan todos los habitantes, también se encuentra condicionado a las limitantes que establezca la Ley para proteger los intereses generales sobre los particulares, para otorgar orden y para salvaguardar otros derechos como la vida.
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="flip-up")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -143,7 +143,7 @@
             .col
               p #[b Normativa regente y vigente]
               p.mb-0 El marco jurídico de los accidentes de tránsito en Colombia, en su primer orden, debe tener en cuenta que la normatividad que rige en Colombia es: la Constitución, el Código Penal, el Código de procedimiento penal, Código Nacional de Tránsito Terrestre, el Estatuto nacional de transporte, entre otras.
-      .col-12.bg-c5
+      .col-12.bg-c5(data-aos="fade-right")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -154,12 +154,12 @@
               p.mb-0 Disposiciones Básicas sobre el Transporte (Ley 105 de 1993), Estatuto Nacional de Transporte (Ley 336 de 1996), Decreto Único Reglamentario del Sector Transporte (Decreto 1079 de 2015), Manual para el Diligenciamiento del Informe Policial de Accidente de Tránsito (Resolución 11268 de 2012), Manual de Procedimientos de Cadena de Custodia (Resolución 02369 de 2016).
     Separador
     #t_1_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Autoridades e intervinientes
-    p Se trata de todos aquellos factores y entes que pueden incidir o que inciden efectivamente en los accidentes de tránsito: el entorno, los vehículos y las personas.
+    p(data-aos="flip-up") Se trata de todos aquellos factores y entes que pueden incidir o que inciden efectivamente en los accidentes de tránsito: el entorno, los vehículos y las personas.
     p.mb-5 En tal sentido, se deben tener en cuenta los elementos constitutivos de la denominada “Trilogía vial”, los cuales permiten asimilar mejor los conceptos de:
     .row
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="fade-right")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -168,7 +168,7 @@
             .col
               p #[b Entorno]
               p.mb-0 El entorno no solo incluye el espacio físico donde se lleva a cabo los desplazamientos, sino también el entorno jurídico-legal, donde se incluyen las normas y los entes reguladores de la movilidad en las vías.
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="flip-up")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -177,7 +177,7 @@
             .col
               p #[b Vehículos]
               p.mb-0 Todos los medios en los que se puede desplazar un ser humano: motorizados y no motorizados, individuales y colectivos, públicos y privados, utilitarios y particulares. Además de las características y especificaciones técnicas de éstos, se tiene en cuenta su estado y evolución para su correcta aproximación.
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="fade-left")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -186,7 +186,7 @@
             .col
               p #[b Personas]
               p.mb-0 Todo individuo, mayor o menor, ciudadano o residente, poseedor o no de vehículos, conductor o no de vehículos, que interactúa en los espacios públicos y vías públicas.
-      .col-12.bg-c5.mb-4
+      .col-12.bg-c5.mb-4(data-aos="fade-right")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -195,7 +195,7 @@
             .col
               p #[b Trilogía vial]
               p.mb-0 Conjugan los factores intervinientes y estos, a su vez, derivan las autoridades competentes en el conocimiento de accidentes de tránsito.
-      .col-12.bg-c5
+      .col-12.bg-c5(data-aos="fade-left")
         .p-4
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
@@ -206,43 +206,37 @@
               p.mb-0 Se resumen en tres: las autoridades de tránsito, las autoridades judiciales y los centros de conciliación del ministerio de justicia para los casos de conciliación.
     Separador
     #t_1_3
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Clasificación de los accidentes de tránsito
-    .row.mb-5
-      .col-lg-auto.p-0.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img11.png', style="width: 480px" ,alt='').m-auto
-      .col-lg.bg-c6
-        .p-1
-          ul.lista-ul.mb-0
-            li.d-flex
-              i.fas.fa-chevron-right(style="color: #F0B62A")
-              |
-              p.mb-0 El análisis de un accidente de tránsito comienza por el establecimiento conceptual de sus características para poder comprender aspectos relevantes de los factores que dieron origen a éste y sus posibles causas.
-            li.d-flex
-              i.fas.fa-chevron-right(style="color: #F0B62A")
-              |
-              p.mb-0 Las aseguradoras utilizan la expresión siniestro vial que a la luz de la RAE “significa daño de cualquier importancia que puede ser indemnizado por una compañía aseguradora”.
-            li.d-flex
-              i.fas.fa-chevron-right(style="color: #F0B62A")
-              |
-              p.mb-0 El Artículo 2 de la Ley 769 de 2002 define el accidente de tránsito como evento.
-            li.d-flex
-              i.fas.fa-chevron-right(style="color: #F0B62A")
-              |
-              p.mb-0 En el ámbito penal se establece como hechos de tránsito.
-            li.d-flex
-              i.fas.fa-chevron-right(style="color: #F0B62A")
-              |
-              p.mb-0 En Colombia se utiliza el concepto de accidente de tránsito debido a que está tipificado en nuestra normatividad Ley 769 de 2002.
-            li.d-flex
-              i.fas.fa-chevron-right(style="color: #F0B62A")
-              |
-              p.mb-0 Estudiar un accidente ocurrido en el tránsito, implica una serie de conocimientos, soportes técnicos, científicos y reglas de seguridad.
-            li.d-flex
-              i.fas.fa-chevron-right(style="color: #F0B62A")
-              |
-              p.mb-0 Se requiere un previo estudio de los causantes, los patrones existentes, los factores influyentes y la distinción de parámetros que comprenden el tiempo y lugar de ocurrencia del accidente.
+
+    .bg-gradient-der.mn
+      .row.justify-content-center.mb-5
+        .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/tema1/1.png', alt='')
+        .col-lg-8(data-aos="fade-left")
+          ul.lista-ul--color
+            li
+              i.fas.fa-angle-right(style="color: #F0B62A")
+              | El análisis de un accidente de tránsito comienza por el establecimiento conceptual de sus características para poder comprender aspectos relevantes de los factores que dieron origen a éste y sus posibles causas.
+            li
+              i.fas.fa-angle-right(style="color: #F0B62A")
+              | Las aseguradoras utilizan la expresión siniestro vial que a la luz de la RAE “significa daño de cualquier importancia que puede ser indemnizado por una compañía aseguradora”.
+            li
+              i.fas.fa-angle-right(style="color: #F0B62A")
+              | El Artículo 2 de la Ley 769 de 2002 define el accidente de tránsito como evento.
+            li
+              i.fas.fa-angle-right(style="color: #F0B62A")
+              | En el ámbito penal se establece como hechos de tránsito.
+            li
+              i.fas.fa-angle-right(style="color: #F0B62A")
+              | En Colombia se utiliza el concepto de accidente de tránsito debido a que está tipificado en nuestra normatividad Ley 769 de 2002.
+            li
+              i.fas.fa-angle-right(style="color: #F0B62A")
+              | Estudiar un accidente ocurrido en el tránsito, implica una serie de conocimientos, soportes técnicos, científicos y reglas de seguridad.
+            li
+              i.fas.fa-angle-right(style="color: #F0B62A")
+              | Se requiere un previo estudio de los causantes, los patrones existentes, los factores influyentes y la distinción de parámetros que comprenden el tiempo y lugar de ocurrencia del accidente.
+
+
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure
@@ -250,14 +244,15 @@
       .col-auto.bg-c7(style="z-index:1")
         .p-2
           h3.mb-0.ms-3 Conceptos y definiciones
-    p.mb-5 Al analizar la definición del accidente de tránsito, se puede indicar que hay unos presupuestos a cumplir para determinar la existencia o no de éste, y para ello la definición tiene como apartes importantes los siguientes prerrequisitos:
+    p.mb-5(data-aos="fade-right") Al analizar la definición del accidente de tránsito, se puede indicar que hay unos presupuestos a cumplir para determinar la existencia o no de éste, y para ello la definición tiene como apartes importantes los siguientes prerrequisitos:
     .row.bg-c8.mb-5
       .col-12
         .px-5.pb-5
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          .row.align-items-center.mb-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/2SBYKNJlahE" title="Conceptos y definiciones del Accidente de tránsito" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video. Conceptos y definiciones del Accidente de tránsito
+          .row.align-items-center.mb-4(data-aos="fade-right")
             .col-auto.pe-0(style="z-index:2")
               figure
                 img(src='@/assets/curso/tema1/img14.svg', style="width: 50px" ,alt='').m-auto
@@ -266,13 +261,13 @@
                 h3.mb-0.ms-3 Investigación de accidente de tránsito
           .row.align-items-center.mb-5
             .col-lg-4.mb-4.mb-lg-0
-              figure
+              figure(data-aos="flip-up")
                 img(src='@/assets/curso/tema1/img12.png', style="width: 450px" ,alt='').m-auto
             .col-lg-8
-              p Es el conjunto de procedimientos que se llevan a cabo mediante un ordenamiento sistemático, con una coherencia y secuencia lógica, de manera organizada, que se debe apoyar en los fundamentos científicos, jurídicos y técnicos preexistentes y aplicables.
-              p Explicación clara de los hechos, acontecimientos, factores y causas  que originaron el accidente de tránsito, para establecer una teoría del caso de la manera más objetiva, probatoria y sensata, convirtiéndose en un argumento factico y concluyente.
-              p De esta manera se puede indicar que la investigación del accidente mantiene un estricto orden secuencial organizado en una metodología, donde se definen las actuaciones de los investigadores apoyados en las ciencias y disciplinas aplicables para cada caso particular.
-          .row.align-items-center.mb-4
+              p(data-aos="flip-up") Es el conjunto de procedimientos que se llevan a cabo mediante un ordenamiento sistemático, con una coherencia y secuencia lógica, de manera organizada, que se debe apoyar en los fundamentos científicos, jurídicos y técnicos preexistentes y aplicables.
+              p(data-aos="flip-up") Explicación clara de los hechos, acontecimientos, factores y causas  que originaron el accidente de tránsito, para establecer una teoría del caso de la manera más objetiva, probatoria y sensata, convirtiéndose en un argumento factico y concluyente.
+              p(data-aos="flip-up") De esta manera se puede indicar que la investigación del accidente mantiene un estricto orden secuencial organizado en una metodología, donde se definen las actuaciones de los investigadores apoyados en las ciencias y disciplinas aplicables para cada caso particular.
+          .row.align-items-center.mb-4(data-aos="fade-right")
             .col-auto.pe-0(style="z-index:2")
               figure
                 img(src='@/assets/curso/tema1/img14.svg', style="width: 50px" ,alt='').m-auto
@@ -281,7 +276,7 @@
                 h3.mb-0.ms-3 Reconstrucción de accidente de tránsito
           .row.align-items-center.mb-5
             .col-lg-4.mb-4.mb-lg-0
-              figure
+              figure(data-aos="flip-up")
                 img(src='@/assets/curso/tema1/img13.png', style="width: 450px" ,alt='').m-auto
             .col-lg-8
               p Según lo afirman Ramos & Quiroga (2017), la reconstrucción conceptualmente se puede concebir como la representación retrospectiva de los acontecimientos que se desarrollaron en la ocurrencia del accidente, desde sus escenas temporo-espaciales, escena preliminar, escena de reacciones múltiples, escena de materialización del hecho y escena de posiciones finales.
@@ -291,7 +286,7 @@
               .titulo-sexto.color-acento-contenido.mb-4
                 p.mb-0 #[b Tabla 1]
                 p.mb-0 Términos en accidentes de tránsito
-              .tabla-a.color-secundario
+              .tabla-a.color-secundario(data-aos="fade-right")
                 table
                   thead
                     tr
@@ -331,7 +326,7 @@
               .titulo-sexto.color-acento-contenido.mb-4
                 p.mb-0 #[b Tabla 2]
                 p.mb-0 Términos en accidentes de tránsito en relación con el vehículo
-              .tabla-a.color-secundario
+              .tabla-a.color-secundario(data-aos="fade-left")
                 table
                   thead
                     tr
@@ -420,7 +415,8 @@
     p.mb-5 Los accidentes en Colombia se clasifican en seis tipos que son:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DWzEUuTfQAw" title="Clasificación de los Accidentes de tránsito" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Clasificación de los accidentes de tránsito
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure
@@ -461,29 +457,29 @@
         .row
           .col-12.px-0
             figure
-              img(src='@/assets/curso/tema1/img20.svg', style="width: 450px" ,alt='').m-auto
+              img(src='@/assets/curso/tema1/img20.svg', style="width: 100%" ,alt='').m-auto
           .col-12.bg-c10
             .p-4
               p.text-center #[b Fases de impacto]
-              p.text-center El primer contacto con algunas de sus partes, el peatón es acelerado aproximadamente a la misma velocidad que el vehículo que le impacta.
+              p.text-center.text-desc El primer contacto con algunas de sus partes, el peatón es acelerado aproximadamente a la misma velocidad que el vehículo que le impacta.
       .col-md-8.col-lg.m-2
         .row
           .col-12.px-0
             figure
-              img(src='@/assets/curso/tema1/img21.svg', style="width: 450px" ,alt='').m-auto
+              img(src='@/assets/curso/tema1/img21.svg', style="width: 100%" ,alt='').m-auto
           .col-12.bg-c10
             .p-4
               p.text-center #[b Fase de vuelo]
-              p.text-center En la que tras separarse el cuerpo del peatón del vehículo, inicia una fase de vuelo hasta que golpea con el suelo.
+              p.text-center.text-desc En la que tras separarse el cuerpo del peatón del vehículo, inicia una fase de vuelo hasta que golpea con el suelo.
       .col-md-8.col-lg.m-2
         .row
           .col-12.px-0
             figure
-              img(src='@/assets/curso/tema1/img22.svg', style="width: 450px" ,alt='').m-auto
+              img(src='@/assets/curso/tema1/img22.svg', style="width: 100%" ,alt='').m-auto
           .col-12.bg-c10
             .p-4
-              p.text-center #[b Fases de impacto]
-              p.text-center En la que tras haber golpeado con el suelo, el cuerpo del peatón se desplazará, rodará o realizará una combinación de ambos movimientos hasta que llegue a su posición final, pudiendo haber golpeado con elementos que se haya encontrado a su paso.
+              p.text-center #[b Fase de deslizamiento y/o rotación]
+              p.text-center.text-desc En la que tras haber golpeado con el suelo, el cuerpo del peatón se desplazará, rodará o realizará una combinación de ambos movimientos hasta que llegue a su posición final, pudiendo haber golpeado con elementos que se haya encontrado a su paso.
     .row.mb-5
       .col-12.bg-c11
         .p-4
@@ -841,7 +837,7 @@
         p.mb-0 Si fracasa la conciliación, cualquiera de las partes puede acudir a los demás mecanismos de acceso a la justicia. Para tal efecto, no será necesaria la expedición del informe de accidente de tránsito, ni la presencia de autoridad de tránsito en la respectiva audiencia de conciliación. (Congreso de la República, 2002)
     Separador
     #t_1_4
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Accidente de tránsito con heridos y muertos
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Ley 769 Art. 3 de 2002" :icono="require('@/assets/curso/tema1/img41.svg')")
@@ -926,9 +922,9 @@
       .col-12.bg-c6
         .p-4
           figure.d-none.d-lg-block
-            img(src='@/assets/curso/tema1/img44.svg', style="width: 1000px" ,alt='').m-auto
+            img(src='@/assets/curso/tema1/img44.svg', style="max-width: 818px" ,alt='').m-auto
           figure.d-block.d-lg-none
-            img(src='@/assets/curso/tema1/img44m.svg', style="width: 1000px" ,alt='').m-auto
+            img(src='@/assets/curso/tema1/img44m.svg', style="max-width: 412px" ,alt='').m-auto
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure
@@ -985,9 +981,9 @@
         .col-auto
           figure
             img(src='@/assets/curso/tema1/img45.svg', style="width: 70px" ,alt='').m-auto
-    figure.d-none.d-lg-block
+    figure.d-none.d-lg-block(data-aos="flip-up")
       img(src='@/assets/curso/tema1/img24.png', alt='').m-auto
-    figure.d-block.d-lg-none
+    figure.d-block.d-lg-none(data-aos="flip-up")
       img(src='@/assets/curso/tema1/img24m.png', alt='').m-auto
 
 </template>

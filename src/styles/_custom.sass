@@ -46,6 +46,11 @@
   background-color: #D40A32
 .slyder-a__bullets__item
   background-color: #DF949A
+  @media (max-width: 450px)
+    margin: 0 5px
+  @media (max-width: 400px)
+    margin: 0 4px
+
 .slyder-a__bullets__item--active
   background-color: #D40A32
 
@@ -67,7 +72,13 @@
   &-c2
     background-color: #F0B62A
     height: 250px
+    @media screen and ( max-width: $bp-max-lg )
+      height: 310px
+    @media screen and ( max-width: $bp-max-md )
+      height: 280px
     @media screen and ( max-width: $bp-max-sm )
+      height: 330px
+    @media screen and ( max-width: $bp-max-xs )
       height: 390px
   &-c3
     background-image: url(../assets/curso/tema1/img2.svg)
@@ -113,6 +124,13 @@
     border-bottom-right-radius: 15px
     transition: all 0.5s ease
     height: 240px
+    @media screen and (max-width: $bp-max-xl)
+      p.text-desc
+        font-size: 0.9em
+    @media screen and (max-width: $bp-max-lg)
+      height: 310px
+      p.text-desc
+        font-size: 0.9em
   &-c10:hover
     background-color: #F0E0B8
     transition: all 0.5s ease
@@ -133,3 +151,41 @@
 .txt
   &-c1
     background-color: #FAE5B4
+
+
+.row-bg-c6
+  background-color: #F1EBDD
+
+@media screen and (max-width: $bp-max-md)
+  .row-bg-c6
+    background-color: #fff
+
+@media (max-width: $bp-max-xl)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-resonsive.png') !important
+    background-position: top left
+
+p.lh-sm
+  font-size: 0.95em
+
+.bg-gradient-izq
+  background: rgb(255,243,205);
+  background: linear-gradient(90deg, rgba(255,243,205,.3) 13%, rgba(255,243,205,0) 100%) !important
+.bg-gradient-der
+  background: rgb(255,243,205);
+  background: linear-gradient(90deg,rgba(255,243,205,0) 13% , rgba(255,243,205,.3) 100%) !important
+
+//Margen negativo ////R
+.mn
+  margin: 0 -3rem
+  padding: 3rem
+
+.bg-white
+  background: white !important
+
+.bg-color-secundario
+  background-color: $color-secundario
+
+.br-bottom
+  border-bottom-left-radius: 12px
+  border-bottom-right-radius: 12px
