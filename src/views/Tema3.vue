@@ -600,13 +600,13 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Figura 1]
+          p.mb-0 #[b Figura 3]
           p.mb-0 Ejemplo del método de fijación planimétrica de coordenadas cartesianas y triangulación
         .row
           .col-12.bg-c6
             .p-4
               figure
-                img(src='@/assets/curso/tema3/img28.png', alt='').m-auto
+                img(src='@/assets/curso/tema3/img28.png', alt='Boceto de ejemplo del método de fijación planimétrica de coordenadas cartesianas y triangulación.').m-auto
     p De igual forma se podrá utilizar equipos de topografía como estaciones totales, distanciómetros láser, escáner topográfico, teodolitos, drones entre otros, sin embargo el 90 % de los casos que se atienden se hacen con cinta métrica y nivel de bolsillo.
     .row.align-items-center
       .col-lg-8.mb-4.mb-lg-0

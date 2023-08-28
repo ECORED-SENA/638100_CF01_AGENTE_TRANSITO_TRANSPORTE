@@ -55,35 +55,40 @@
               p.mb-0 El método punto a punto puede carecer de eficiencia cuando existen varios macroelementos involucrados, puesto que estos obstaculizan la visión periférica y se podrían omitir evidencias. También es importante mencionar que el método punto a punto tiene una variante que se denomina zig-zag.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img2.svg', style="width: 450px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img2b.svg', style="width: 450px" ,alt='Gráfica que ilustra una escena de accidente con algunos obstáculos posibles.').m-auto
+                figcaption Nota. #[span En la imagen del accidente, en la cual se presentan algunos obstáculos posibles, las flechas representan el desplazamiento hacia las evidencias, en el método punto a punto.]
           .row
             .col-lg-7.mb-4.mb-lg-0
               p #[b Búsqueda por sector o cuadrante]
               p.mb-0 Este método se utiliza cuando se tienen lugares de los hechos extensos y fáciles de delimitar, también cuando se cuenta con varios investigadores, quienes se distribuyen según delimitación del coordinador de la investigación que, a su vez, dará indicaciones para la numeración de los elementos materiales de prueba, a través de un ordenamiento secuencial.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img3.svg', style="width: 450px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img3b.svg', style="width: 450px" ,alt='Gráfica que ilustra una escena de accidente con delimitación clara de zonas, gracias a condiciones del espacio.').m-auto
+                figcaption Nota. #[span En la imagen, los recuadros azules representan la división de zonas en el método por cuadrantes.]
           .row
             .col-lg-7.mb-4.mb-lg-0
               p #[b Búsqueda por franjas o líneas]
               p.mb-0 Se realiza una ubicación de los elementos materiales de prueba a través de una inspección transversal; el reconocimiento debe estar integrado en franjas, progresando paulatinamente hacia los extremos del lugar de los hechos, dejando un espacio que pueda estimar como límite y del cual no pierda la vista, hasta realizar la cobertura total de la escena. Las franjas pueden abarcar grandes superficies de terreno y en un solo recorrido se puede ubicar la mayoría de numeradores, pero, también, permite rectificar la zona de ingreso y salida del lugar de los hechos.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img4.svg', style="width: 450px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img4b.svg', style="width: 450px" ,alt='Gráfica que ilustra una escena de accidente con franjas de inspección transversal.').m-auto
+                figcaption Nota. #[span En la imagen, las líneas representan el recorrido (barrido) del método por franjas o líneas.]
           .row
             .col-lg-7.mb-4.mb-lg-0
               p #[b Búsqueda por cuadrilla o rejilla]
               p.mb-0 Las cuadrículas son divisiones imaginarias que los investigadores definen de acuerdo al lugar de los hechos, la disposición del terreno, el número posible de elementos materiales de prueba, la obstaculización en la escena, la predeterminación de macroelementos y la priorización de las actuaciones. Es poco usado ya que las evidencias son muy grandes y abarcan espacios considerables que pueden sobrepasar las rejillas que marcan las cuadrículas, pero puede ser muy eficiente en otros delitos donde se deba buscar evidencias microscópicas como rastros biológicos, cabello o muestras.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img5.svg', style="width: 450px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img5b.svg', style="width: 450px" ,alt='Gráfica que ilustra una escena de accidente con las divisiones o cuadrillas de este tipo de búsqueda.').m-auto
+                figcaption Nota. #[span En la imagen, las líneas representan los sitios por supervisar, según este método por cuadrilla.]
           .row
             .col-lg-7.mb-4.mb-lg-0
               p #[b Búsqueda por espiral]
               p.mb-0 De todos los métodos, el espiral siempre es el más eficiente a la hora de realizar un levantamiento de accidente de tránsito, teniendo en cuenta que su técnica permite una mayor cobertura en menor tiempo y los desplazamientos se pueden ordenar de manera más fácil. Con el recorrido en espiral se pueden generar mejores tomas fotográficas ya que el fotógrafo se puede ubicar en los cuatro puntos cardinales en un solo recorrido, así mismo el topógrafo y los demás investigadores tendrán acceso al lugar de los hechos.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema2/img6.svg', style="width: 450px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img6b.svg', style="width: 450px" ,alt='Gráfica que ilustra una escena de accidente con líneas imaginarias del método de búsqueda por espiral.').m-auto
+                figcaption Nota. #[span En la imagen, la línea representa los sitios por supervisar, según este método de búsqueda por espiral.]
 
 </template>
 

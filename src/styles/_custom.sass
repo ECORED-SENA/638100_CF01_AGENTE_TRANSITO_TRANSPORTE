@@ -131,6 +131,10 @@
       height: 310px
       p.text-desc
         font-size: 0.9em
+    @media screen and (max-width: $bp-max-md)
+      height: auto
+      p.text-desc
+        font-size: 0.9em
   &-c10:hover
     background-color: #F0E0B8
     transition: all 0.5s ease
@@ -189,3 +193,6 @@ p.lh-sm
 .br-bottom
   border-bottom-left-radius: 12px
   border-bottom-right-radius: 12px
+
+figcaption span
+  font-weight: normal

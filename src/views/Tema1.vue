@@ -918,13 +918,16 @@
       .col
         p.mb-0 #[b Código Nacional  de tránsito Ley 769 de 2002 Art. 148]
     p.mb-5 Por otra parte, el accidente de tránsito donde haya personas lesionadas o fallecidas debe ser atendido siguiendo los protocolos de policía judicial y puesto de manera inmediata a disposición de la Fiscalía General de la Nación en la jurisdicción donde haya ocurrido el hecho, siendo el deber de las autoridades de tránsito realizar el procedimiento, por esto es necesario recordar quiénes son las autoridades de tránsito en cada jurisdicción así:
+    .titulo-sexto.color-acento-contenido.mb-4
+      p.mb-0 #[b Figura 1]
+      p.mb-0 Autoridades de tránsito y su jurisdicción
     .row.mb-5
       .col-12.bg-c6
         .p-4
           figure.d-none.d-lg-block
-            img(src='@/assets/curso/tema1/img44.svg', style="max-width: 818px" ,alt='').m-auto
+            img(src='@/assets/curso/tema1/img44.svg', style="max-width: 818px" ,alt='Esquema que enuncia las distintas autoridades de tránsito y su jurisdicción.Las autoridades de tránsito y su jurisdicción específica son: Ministerio de transporte (de regulación normativa), gobernadores y alcaldes (de regulación normativa), organismos de tránsito departamental, municipal o distrital (de regulación normativa y supervisión), policía nacional a través de dirección de tránsito y transporte (de control regulativo), inspectores de policía, de tránsito y corregidoes (de supervisión), superintendencia de puertos y transporte (de supervisión), fuerzas militares (de control operativo), agentes de tránsito y transporte (de control operativo).').m-auto
           figure.d-block.d-lg-none
-            img(src='@/assets/curso/tema1/img44m.svg', style="max-width: 412px" ,alt='').m-auto
+            img(src='@/assets/curso/tema1/img44m.svg', style="max-width: 412px" ,alt='Esquema que enuncia las distintas autoridades de tránsito y su jurisdicción. Las autoridades de tránsito y su jurisdicción específica son: Ministerio de transporte (de regulación normativa), gobernadores y alcaldes (de regulación normativa), organismos de tránsito departamental, municipal o distrital (de regulación normativa y supervisión), policía nacional a través de dirección de tránsito y transporte (de control regulativo), inspectores de policía, de tránsito y corregidoes (de supervisión), superintendencia de puertos y transporte (de supervisión), fuerzas militares (de control operativo), agentes de tránsito y transporte (de control operativo).').m-auto
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure
@@ -981,10 +984,14 @@
         .col-auto
           figure
             img(src='@/assets/curso/tema1/img45.svg', style="width: 70px" ,alt='').m-auto
+
+    .titulo-sexto.color-acento-contenido.mb-4.mt-5
+      p.mb-0 #[b Figura 2]
+      p.mb-0 Procedimientos y formatos para atención de accidentes
     figure.d-none.d-lg-block(data-aos="flip-up")
-      img(src='@/assets/curso/tema1/img24.png', alt='').m-auto
+      img(src='@/assets/curso/tema1/img24.png', alt='Esquema que expone los principales procedimientos y formatos a tener en cuenta para la atención de un accidente de tránsito, según disposiciones de la Fiscalía General de la Nación. Estos son los principales procedimientos a tener en cuenta para la atención de un accidente de tránsito: Manual único de policía judicial, Protocolos de la Fiscalía General, con sus respectivos formatos, Sistema de cadena de custodia, Conjunto de formatos de policía judicial.').m-auto
     figure.d-block.d-lg-none(data-aos="flip-up")
-      img(src='@/assets/curso/tema1/img24m.png', alt='').m-auto
+      img(src='@/assets/curso/tema1/img24m.png', alt='Esquema que expone los principales procedimientos y formatos a tener en cuenta para la atención de un accidente de tránsito, según disposiciones de la Fiscalía General de la Nación. Estos son los principales procedimientos a tener en cuenta para la atención de un accidente de tránsito: Manual único de policía judicial, Protocolos de la Fiscalía General, con sus respectivos formatos, Sistema de cadena de custodia, Conjunto de formatos de policía judicial.').m-auto
 
 </template>
 
