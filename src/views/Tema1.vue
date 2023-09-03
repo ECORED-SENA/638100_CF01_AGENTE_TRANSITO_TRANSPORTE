@@ -49,7 +49,7 @@
           .row
             .col-lg-7.mb-4.mb-lg-0
               p #[b La investigación de accidentes de tránsito]
-              p.mb-0 Es una incesante actividad de análisis y síntesis continua. Es decir, la descomposición de un problema en sus elementos que la integran, el análisis de esos elementos y que por inducción (e inferencia) se recomponen e interrelacionan permiten formular conclusiones menores y, a partir de ellas, por el mismo proceso de inferencia, extraer conclusiones lógicas con base en realidades.
+              p.mb-0 Es una incesante actividad de análisis y síntesis continua. Es decir, la descomposición de un problema en sus elementos que la integran, el análisis de esos elementos y que por inducción (e inferencia) se recomponen e interrelacionan, permiten formular conclusiones menores y, a partir de ellas, por el mismo proceso de inferencia, extraer conclusiones lógicas con base en realidades.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema1/img6.png', style="width: 450px" ,alt='').m-auto
@@ -470,7 +470,7 @@
           .col-12.bg-c10
             .p-4
               p.text-center #[b Fase de vuelo]
-              p.text-center.text-desc En la que tras separarse el cuerpo del peatón del vehículo, inicia una fase de vuelo hasta que golpea con el suelo.
+              p.text-center.text-desc En la que, tras separarse el cuerpo del peatón del vehículo, inicia una fase de vuelo hasta que golpea con el suelo.
       .col-md-8.col-lg.m-2
         .row
           .col-12.px-0
@@ -479,13 +479,13 @@
           .col-12.bg-c10
             .p-4
               p.text-center #[b Fase de deslizamiento y/o rotación]
-              p.text-center.text-desc En la que tras haber golpeado con el suelo, el cuerpo del peatón se desplazará, rodará o realizará una combinación de ambos movimientos hasta que llegue a su posición final, pudiendo haber golpeado con elementos que se haya encontrado a su paso.
+              p.text-center.text-desc En la que, tras haber golpeado con el suelo, el cuerpo del peatón se desplazará, rodará o realizará una combinación de ambos movimientos hasta que llegue a su posición final, pudiendo haber golpeado con elementos que se haya encontrado a su paso.
     .row.mb-5
       .col-12.bg-c11
         .p-4
           .row.align-items-center
             .col.mb-4.mb-lg-0
-              p.mb-0 Los impactos en el atropello también generan proyecciones que son objeto de estudio, puesto que a través de estos se pueden medir velocidades, trayectorias, fuerzas de impacto, momentum y distancias; es así como, muchos autores han tratado de encontrar patrones de proyección de acuerdo a distintas variables preexistentes al momento del impacto.
+              p.mb-0 Los impactos en el atropello también generan proyecciones que son objeto de estudio, puesto que a través de estos se pueden medir velocidades, trayectorias, fuerzas de impacto, #[em momentum] y distancias; es así como, muchos autores han tratado de encontrar patrones de proyección de acuerdo a distintas variables preexistentes al momento del impacto.
             .col-lg-auto
               figure
                 img(src='@/assets/curso/tema1/img23.svg', style="width: 90px" ,alt='').m-auto
@@ -509,31 +509,31 @@
         SlyderA(tipo="b")
           .row
             .col-12
-              p #[b Trayectoria Wrap (envolver)]
+              p #[b Trayectoria #[em Wrap] (envolver)]
               p.mb-4 Describe un envolvimiento del peatón sobre el vehículo, teniendo en cuenta que en el post-impacto, el cuerpo del peatón se arquea hacia la parte frontal del vehículo para posteriormente deslizarse sobre el capó, en este caso, los centros de gravedad no concuerdan, teniendo peatón con su centro por encima del área de contacto inicial con el vehículo.
               figure
                 img(src='@/assets/curso/tema1/img25.svg', style="width: 1150px" ,alt='').m-auto
           .row
             .col-12
-              p #[b Trayectoria forward projection (proyección hacia adelante)]
+              p #[b Trayectoria #[em forward projection] (proyección hacia adelante)]
               p.mb-4 Es una proyección hacia la parte de adelante, donde el peatón es atropellado por un vehículo tipo camión, bus, microbús o campero con su punto de contacto por encima del centro de gravedad.
               figure
                 img(src='@/assets/curso/tema1/img26.svg', style="width: 1150px" ,alt='').m-auto
           .row
             .col-12
-              p #[b Trayectoria roof vault (bóveda de teho)]
+              p #[b Trayectoria #[em roof vault] (bóveda de teho)]
               p.mb-4 Roof vault es una trayectoria particular que describe a un peatón al ser embestido por un vehículo que viaja a altas velocidades. Esta trayectoria se puede presentar bajo dos consecuencias, la primera es una aceleración del automóvil durante el contacto y la segunda es la no aplicación de frenos al impacto.
               figure
                 img(src='@/assets/curso/tema1/img27.svg', style="width: 1150px" ,alt='').m-auto
           .row
             .col-12
-              p #[b Trayectoria fender vault (bóveda de guardabarros)]
+              p #[b Trayectoria #[em fender vault] (bóveda de guardabarros)]
               p.mb-4 En este tipo de trayectoria, son los casos que se presentan principalmente en adultos o personas de talla grande, donde su impacto es la humanidad de la persona, en zonas cercanas al centro de gravedad, con el vértice del guardapolvo, en el cual los vehículos camperos, camionetas y utilitarios son los que generalmente muestran esta dinámica.
               figure
                 img(src='@/assets/curso/tema1/img28.svg', style="width: 1150px" ,alt='').m-auto
           .row
             .col-12
-              p #[b Trayectoria Somersault (Voltereta)]
+              p #[b Trayectoria #[em Somersault] (Voltereta)]
               p.mb-4 Conocida como el salto mortal esta trayectoria que describe el peatón al ser atropellado, especialmente por automóviles, se presenta con gran violencia y sus consecuencias en su mayoría son fatales, las principales lesiones se concentran en el cráneo y la columna cervical.
               figure
                 img(src='@/assets/curso/tema1/img29.svg', style="width: 1150px" ,alt='').m-auto
@@ -647,7 +647,7 @@
                 td.text-center Baranda 8
                 td.text-center Vala señal 12
                 td.text-center Otro 16
-    p.mb-5 Como se puede apreciar, en el campo 5.1 aparecen las opciones de choque con vehículo, tren, semoviente u objeto fijo, pero en caso de presentarse una colisión con un objeto fijo, es necesario señalar que tipo de objeto y por ende remitirse al campo 5.2, el cual especifica mediante once (11) opciones cual es el tipo de objeto fijo con el que ha colisionado el vehículo en cuestión, donde las opciones son : muro, poste, árbol, baranda, semáforo, inmueble, hidrante, valla señal, tarima, caseta, vehículo estacionado y otro.
+    p.mb-5 Como se puede apreciar, en el campo 5.1 aparecen las opciones de choque con vehículo, tren, semoviente u objeto fijo, pero en caso de presentarse una colisión con un objeto fijo, es necesario señalar que tipo de objeto y por ende remitirse al campo 5.2, el cual especifica mediante once (11) opciones cual es el tipo de objeto fijo con el que ha colisionado el vehículo en cuestión, donde las opciones son: muro, poste, árbol, baranda, semáforo, inmueble, hidrante, valla señal, tarima, caseta, vehículo estacionado y otro.
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure
@@ -655,7 +655,7 @@
       .col-auto.bg-c7(style="z-index:1")
         .p-2
           h3.mb-0.ms-3 Clase de accidente “otro”
-    p.mb-5 El tipo de accidente “otro”, es el vehículo que sale de la carretera y sin chocar previamente cae a un rio, precipicio o barranco, también, se puede clasificar en esta categoría, los vehículos que son accidentados por un deslizamiento de tierra, caída de piedras de una montaña o aquellos arrastrados por una creciente de un rio o inundación, atrapados en carretera por un terremoto o cualquiera que se presente en fenómenos naturales o artificiales.
+    p.mb-5 El tipo de accidente “otro”, es el vehículo que sale de la carretera y sin chocar previamente cae a un río, precipicio o barranco, también, se puede clasificar en esta categoría, los vehículos que son accidentados por un deslizamiento de tierra, caída de piedras de una montaña o aquellos arrastrados por una creciente de un río o inundación, atrapados en carretera por un terremoto o cualquiera que se presente en fenómenos naturales o artificiales.
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure
@@ -804,13 +804,13 @@
               p.mb-0 Presente Código rige en todo el territorio nacional y regula la circulación.
           .row(titulo="Código Penal Ley 599 2000")
             .col-12
-              p.mb-0 Se encarga al haber lesiones personales u homicidio en accidente de tránsito lo que lo convierte en un hecho delictivo que debe ser puesto a disposición de la autoridad judicial de la jurisdicción donde haya ocurrido el hecho.
+              p.mb-0 Si hay lesiones personales u homicidio en un accidente de tránsito, lo que lo convierte en un hecho delictivo, se debe poner a disposición de la autoridad judicial de la jurisdicción donde haya ocurrido el hecho.
           .row(titulo="Ley 906 de 2004")
             .col-12
               p.mb-0 Otorga las funciones de policía judicial de manera permanente y especial dentro de su jurisdicción a las autoridades de tránsito, por ello las actividades que se desarrollan están ligadas a los protocolos de policía judicial y deberes como criminalista de campo para procesar técnicamente un lugar de los hechos.
           .row(titulo="Ley 906 de 2004 Art. 202")
             .col-12
-              p.mb-0 Otorga las funciones de policía judicial de manera permanente y especial dentro de su jurisdicción a las autoridades de tránsito, por ello las actividades que se desarrollan están ligadas a los protocolos de policía judicial y deberes como criminalista de campo para procesar técnicamente un lugar de los hechos.
+              p.mb-0 Personas lesionadas o fallecidas, lo que lo convierte en un hecho delictivo que debe ser puesto a disposición de la autoridad judicial de la jurisdicción donde haya ocurrido el hecho.
           .row(titulo="Artículo 43 y 44 de la ley 769 de 2002")
             .col-12
               p.mb-0 Daños materiales y el procedimiento a realizar, el cual debe enfocarse directamente a tratar de resolver el incidente de manera rápida y conciliatoria, despejando la vía lo más rápido posible.
@@ -824,7 +824,7 @@
       .col-auto.bg-c7(style="z-index:1")
         .p-2
           h3.mb-0.ms-3 Accidente de solo daños materiales
-    p.mb-4 El artículo 143 de la Ley 769 de 2002 “Por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones” #[b indica  que  en todo accidente de tránsito donde sólo se causen daños materiales en los que resulten afectados vehículos asegurados no asegurados, inmuebles, cosas o animales y no se produzcan lesiones personales, los conductores, entidades aseguradoras y demás interesados en el accidente recaudará todas las pruebas relativas a la colisión mediante la utilización de herramientas técnicas y tecnológicas]. Para tal efecto, el material probatorio recaudado, reemplazará el informe de accidente de tránsito que expide la autoridad competente.
+    p.mb-4 El artículo 143 de la Ley 769 de 2002 “Por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones” #[b indica  que  en todo accidente de tránsito donde sólo se causen daños materiales en los que resulten afectados vehículos asegurados, no asegurados, inmuebles, cosas o animales y no se produzcan lesiones personales, los conductores, entidades aseguradoras y demás interesados en el accidente recaudará todas las pruebas relativas a la colisión mediante la utilización de herramientas técnicas y tecnológicas]. Para tal efecto, el material probatorio recaudado, reemplazará el informe de accidente de tránsito que expide la autoridad competente.
     .row.align-items-center
       .col-lg-4.mb-4.mb-lg-0
         figure
@@ -851,7 +851,7 @@
       .py-4.py-md-5(titulo="Ley 769 Art, 149 de 2002" :icono="require('@/assets/curso/tema1/img41.svg')")
         .row
           .col-12
-            p #[b Ley 769 Art, 149 de 2002]
+            p #[b Ley 769 Art. 149 de 2002]
             p Se deberá diligenciar el informe policial de accidentes de tránsito, siguiendo estrictamente las indicaciones estipuladas por el “Manual para el diligenciamiento del informe policial de accidentes de tránsito” avalado por la Resolución 0011268 de 2012.
             p Es importante mencionar que esta norma también obliga a la autoridad que atiende el hecho punible en accidente de tránsito a enviar las partes implicadas (conductores) a la realización de la prueba de embriaguez y de no realizar dicho procedimiento sin causa justificada, esta omisión será considerada como falta disciplinaria grave.
             p La atención de estos casos debe dar prioridad a la protección de los derechos fundamentales de las víctimas e involucrados donde el derecho a la vida prima sobre los demás, la atención pre hospitalaria, el traslado de heridos y salvaguardar a todos los que estén en el lugar de los hechos es prioridad como autoridad de tránsito.
@@ -887,7 +887,7 @@
               img(src='@/assets/curso/tema1/img43.svg', style="width: 120px" ,alt='').m-auto
           .col
             p #[b Artículo 143 Ley 769 de 2002]
-            p El procedimiento para la atención de accidentes de tránsito de solo daños materiales donde se causen daños materiales en los que resulten afectados vehículos asegurados no asegurados, inmuebles, cosas o semovientes, fue recientemente actualizado extractando los nuevos amparos jurídicos establecidos en el artículo 143 de la Ley 769 así:
+            p El procedimiento para la atención de accidentes de tránsito de solo daños materiales donde se causen daños materiales en los que resulten afectados vehículos asegurados, no asegurados, inmuebles, cosas o semovientes, fue recientemente actualizado extractando los nuevos amparos jurídicos establecidos en el artículo 143 de la Ley 769 así:
             p #[i.txt-c1 “… los conductores, entidades aseguradoras y demás interesados en el accidente recaudará todas las pruebas relativas a la colisión mediante la utilización de herramientas técnicas y tecnológicas, que permitan la atención del mismo en forma oportuna, segura y que garantice la autenticidad, integridad, conservación y posterior consulta  y uso probatorio de la información. Para tal efecto, el material probatorio recaudado con estas condiciones reemplazará el informe de accidente de tránsito que expide la autoridad competente”.]
         .row.mb-4
           .col-md-auto.mb-4.mb-lg-0
@@ -896,7 +896,7 @@
           .col
             p #[b Ley 2251 artículo 16 de 2022]
             p #[i.txt-c1 “… los conductores deben retirar inmediatamente los vehículos colisionados y todo elemento que pueda interrumpir el tránsito y acudir a los centros de conciliación debidamente autorizados por el Ministerio de Justicia y del Derecho. Si fracasa la conciliación, cualquiera de las partes puede acudir a los demás mecanismos de acceso a la justicia. Para tal efecto, no será necesaria la expedición del informe de accidente de tránsito, ni la presencia de autoridad de tránsito en la respectiva audiencia de conciliación”.]
-            p Lo anterior busca descongestionar y agilizar los procedimientos, donde ahora los conductores no requieren la presencia de la autoridad de tránsito para el diligenciamiento del IPAT, solo tomarán ellos mismos los tomar datos y remitirse a un centro de conciliación para solucionar el impase.
+            p Lo anterior busca descongestionar y agilizar los procedimientos, donde ahora los conductores no requieren la presencia de la autoridad de tránsito para el diligenciamiento del IPAT, solo tomarán ellos mismos los datos y remitirse a un centro de conciliación para solucionar el impase.
         .row.mb-4
           .col-md-auto.mb-4.mb-lg-0
             figure
@@ -955,7 +955,7 @@
           img(src='@/assets/curso/tema1/img24.svg', style="width: 10px" ,alt='').m-auto
       .col
         p.mb-0 #[b Resolución 20223040040595 del 12 de julio de 2022, Ministerio de Transporte]
-    p.mb-5 Las normas de seguridad y salud en el trabajo aplicado a eventos de tránsito, la cual adopta la metodología para el diseño , implementación y verificación de los planes estratégicos de seguridad vial, estableciendo que todas las entidades que cuenten para su funcionamiento con diez (10) o más vehículos automotores, están obligadas a desarrollar planes estratégicos de seguridad vial en función de su misionalidad y tamaño, el cual debe estar articulado con el sistema de gestión de seguridad y salud en el trabajo SGSST quienes verificarán el cumplimiento del mismo en cada organización.
+    p.mb-5 Las normas de seguridad y salud en el trabajo aplicado a eventos de tránsito, la cual adopta la metodología para el diseño, implementación y verificación de los planes estratégicos de seguridad vial, estableciendo que todas las entidades que cuenten para su funcionamiento con diez (10) o más vehículos automotores, están obligadas a desarrollar planes estratégicos de seguridad vial en función de su misionalidad y tamaño, el cual debe estar articulado con el sistema de gestión de seguridad y salud en el trabajo SGSST quienes verificarán el cumplimiento del mismo en cada organización.
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
         figure

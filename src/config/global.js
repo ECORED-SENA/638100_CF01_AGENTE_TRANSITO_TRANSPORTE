@@ -136,7 +136,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/638100_CF01_DU.pdf',
+        download: 'downloads/638100_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -239,7 +239,7 @@ export default {
   ],
   complementario: [
     {
-      tema: 'Investigación de accidentes de tránsito ',
+      tema: '1. Generalidades del accidente de tránsito',
       referencia:
         'Ramos Enriquez, H. F., & Quiroga Amaya, L. A. (2017). <em>Investigación de Accidentes de Tránsito en Colombia</em>. Bogotá: Imprenta Nacional.',
       tipo: 'Libro',
@@ -247,7 +247,7 @@ export default {
         'downloads/libro-investigacion-accidentes-de-transito-en-colombia.pdf',
     },
     {
-      tema: 'Normatividad de los accidentes de tránsito',
+      tema: '1. Generalidades del accidente de tránsito',
       referencia:
         'Congreso de la República. (13 de Septiembre de 2002). Ley 769 de 2002. Código Nacional de Tránsito. Bogotá, Bogotá DC, Colombia: Secretaria del Senado.',
       tipo: 'Ley',
@@ -255,14 +255,14 @@ export default {
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0769_2002.html#1',
     },
     {
-      tema: 'Procedimiento de cadena de custodia',
+      tema: '3. Actuaciones de policía judicial en accidentes de tránsito',
       referencia:
         'Fiscalía General de la Nación. (abril 18 de 2018). Manual del sistema de cadena de custodia. <em>Manual de cadena de custodia</em>. Bogotá , Colombia: Imprenta Nacional.',
       tipo: 'Manual',
       link: 'downloads/manual-del-sistema-de-cadena-de-custodia.pdf',
     },
     {
-      tema: 'Diligenciamiento del IPAT',
+      tema: '4. El informe policial de accidentes de tránsito IPAT',
       referencia:
         'Ministerio de Transporte. (06 de Diciembre de 2012). Resolución 0011268 de 2012. <em>Por la cual se adopta el nuevo informe policial de accidentes de tránsito (IPAT), su Manual de diligenciamiento y se dictan otras disposiciones</em>. Bogotá, Bogotá DC., Colombia: Imprenta Nacional.',
       tipo: 'Manual',

@@ -20,7 +20,7 @@
                     img(src='@/assets/curso/tema2/img1.svg', style="width: 70px" ,alt='').m-auto
                 .col-md.col-xs-12
                   p.mb-0 El tratamiento que se da al lugar de los hechos tiene una transversalización de suma importancia en la investigación criminal y el desarrollo del sistema de justicia, por cuanto las decisiones judiciales parten de indicios, investigaciones y reconstrucciones acertadas y determinantes sobre el hecho delictivo.
-        p.mb-0 Los accidentes de tránsito son eventos generalmente involuntarios, pero no pierden la connotación de hecho delictivo cuanto su incidencia involucra delitos como las lesiones, homicidios o simple daños en bien ajeno.
+        p.mb-0 Los accidentes de tránsito son eventos generalmente involuntarios, pero no pierden la connotación de hecho delictivo cuanto su incidencia involucra delitos como las lesiones, homicidios o simples daños en bien ajeno.
       .col-lg-4
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width: 450px" ,alt='').m-auto
@@ -61,7 +61,7 @@
                 img(src='@/assets/curso/tema3/img4.svg', style="width: 160px" ,alt='')
             .col
               p #[b 4. Celeridad]
-              p.mb-0 La fijación topográfica en el lugar de los hechos, parte de la toma de datos en el la escena del accidente, pero esta es una actividad que requiere cierto grado de celeridad, por cuanto los accidentes de tránsito suceden en vías públicas o privadas abiertas al público, y mantiene un tránsito constante de automotores, peatones y demás usuarios de las vías.
+              p.mb-0 La fijación topográfica en el lugar de los hechos, parte de la toma de datos en la escena del accidente, pero esta es una actividad que requiere cierto grado de celeridad, por cuanto los accidentes de tránsito suceden en vías públicas o privadas abiertas al público, y mantiene un tránsito constante de automotores, peatones y demás usuarios de las vías.
       .col-12.bg-c5.mb-4
         .p-4
           .row.align-items-center
@@ -139,6 +139,7 @@
           p.mb-0 Procedimientos judiciales
         .tabla-a.color-secundario
           table
+            caption Nota. Tomado de Fiscalía General de la Nación
             thead
               tr
                 th(colspan="2") PROCEDIMIENTOS JUDICIALES
@@ -213,6 +214,8 @@
                   p.d-flex #[b 8.] Métodos de búsqueda.
                   p.d-flex #[b 9.] Equipos y medidas de seguridad.
                   p.d-flex #[b 10.] Elaboración y presentación de informes.
+
+    h3.mb-4 #[i.fas.fa-angle-double-right.txt--color-acento-contenido] Actuaciones del primer responsable
     p Tener el primer contacto con el lesionado, pedir ayuda porque no siempre se puede trabajar solo adecuadamente, realizar la evaluación primaria del paciente, solicitar apoyo de los cuerpos de emergencia, son los pasos básicos en caso de accidente de tránsito.
     p.mb-5 #[b El protocolo nacional de actuación del primer responsable, es el siguiente:]
     .row.bg-c13
@@ -292,7 +295,7 @@
                   img(src='@/assets/curso/tema3/img11.png' alt='AvatarTop')
                 .col-12
                   .p-4
-                    p.text-center #[strong 10.] Activar las líneas de emergencia, rutas de evacuación salidas normales y salidas de emergencia, avisos de emergencias, y punto de encuentro entre el primer y segundo acordonamiento.
+                    p.text-center #[strong 10.] Activar las líneas de emergencia, rutas de evacuación, salidas normales y salidas de emergencia, avisos de emergencias, y punto de encuentro entre el primer y segundo acordonamiento.
     Separador
     #t_3_2
     .titulo-segundo.color-acento-contenido
@@ -394,6 +397,8 @@
                 .col-md.col-xs-12
                   p Es importante comprender que los servidores públicos encargados de llevar a cabo esta labor, pueden ser tanto agentes de tránsito como policías de tránsito, dentro de su competencia y jurisdicción y para ambos casos, las capacidades deben ser las mismas.
                   p.mb-0 En cualquier caso, deberán estar cualificados tanto en materia cognitiva como tecnológica, para diligenciar la documentación fotográfica y para llevar a cabo un procedimiento progresivo y ordenado, desde una perspectiva panorámica hasta llegar a cada uno de los EMP y EF.
+
+    h3.mb-4 #[i.fas.fa-angle-double-right.txt--color-acento-contenido] Documentación fotográfica
     p La documentación fotográfica del accidente de tránsito, es un protocolo de la fiscalía denominado documentación fotográfica del lugar de los hechos, y es de vital importancia ya que las tomas realizadas a las evidencias y al lugar de los hechos se convertirán en evidencia demostrativa que les permitirá a los intervinientes en el proceso penal, reconocer lo observado por los investigadores el día de los hechos, siendo la herramienta básica para la toma de datos una cámara fotográfica.
     .row.align-items-center.mb-5
       .col-lg-9.mb-4.mb-lg-0
@@ -427,7 +432,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 De igual manera para fijar fotográficamente una escena del crimen se necesitan accesorios de fotografía judicial como numeradores de evidencia y testigos métricos que le permitan al fotógrafo documentar los planos establecidos en el protocolo.
-    p.mb-5 La siguiente tabla presenta los planos fotográficos que deben tomarse para la atención de un accidente de tránsito con la cámara fotográfica, y los accesorios de fotografía judicial caracterizando unos requisitos básicos para identificar cada una de las fotos.
+    p.mb-5 A continuación, se presenta el listado de los planos fotográficos que deben tomarse para la atención de un accidente de tránsito con la cámara fotográfica, y los accesorios de fotografía judicial caracterizando unos requisitos básicos para identificar cada una de las fotos.
     .row.align-items-center.mb-5
       .col-lg-3.d-none.d-lg-block
         figure
@@ -476,7 +481,7 @@
             .col-lg-7
               figure
                 img(src='@/assets/curso/tema3/img23.png', style="width: 450px" ,alt='').m-auto
-          .row(numero="8" titulo="Sabana de pertenencias")
+          .row(numero="8" titulo="Sábana de pertenencias")
             .col-lg-5.mb-4.mb-lg-0
               p.mb-0 Al realizar el procedimiento de inspección al cadáver es necesario que el funcionario con funciones de policía judicial retire los elementos encontrados en el cadáver y realice esta toma fotográfica sobre un fondo de color blanco para el contraste y así garantizar la correcta entrega de pertenencias a los familiares.
             .col-lg-7
@@ -487,7 +492,7 @@
         .p-4
           .row.align-items-center
             .col.mb-4.mb-lg-0
-              p.mb-0 El procedimiento de fijación fotográfica debe ser documentado en el formato de policía judicial FPJ 11 en el cual se presentarán las fotografías que harán parte del caso a lo que se le llama el álbum fotográfico, el cual será impreso y anexado a la carpeta de los actos urgentes y las fotografías se descargan en el pc de la entidad y se queman en un CD el cual se pone en cadena de custodia y se envía las fotos al almacén de evidencia o gabinete de fotografía forense de la fiscalía, para estar disponibles en la futura investigación.
+              p.mb-0 El procedimiento de fijación fotográfica debe ser documentado en el formato de policía judicial FPJ 11, en el cual se presentarán las fotografías que harán parte del caso a lo que se le llama el álbum fotográfico, el cual será impreso y anexado a la carpeta de los actos urgentes y las fotografías se descargan en el pc de la entidad y se queman en un CD el cual se pone en cadena de custodia y se envía las fotos al almacén de evidencia o gabinete de fotografía forense de la fiscalía, para estar disponibles en la futura investigación.
             .col-lg-auto
               figure
                 img(src='@/assets/curso/tema3/img14.svg', style="width: 100px" ,alt='').m-auto
@@ -596,7 +601,7 @@
               i.fas.fa-chevron-right(style="color: #F0B62A")
               |
               p.mb-0 Según la necesidad del caso y pericia del investigador, mientras sea diligenciado teniendo en cuenta los parámetros del manual de diligenciamiento del informe policial de accidente de tránsito IPAT resolución 11268  para que funja como una actuación judicial.
-    p.mb-5 Las técnicas de planimetría utilizadas para hechos de tránsito se encuentran establecidas en el manual de diligenciamiento del IPAT estableciendo métodos de fijación topográfica como el de coordenadas cartesianas y triangulación como lo presentan los siguientes ejemplos.
+    p.mb-5 Las técnicas de planimetría utilizadas para hechos de tránsito se encuentran establecidas en el manual de diligenciamiento del IPAT estableciendo métodos de fijación topográfica como el de coordenadas cartesianas y triangulación como lo presenta el siguiente ejemplo.
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
@@ -607,10 +612,10 @@
             .p-4
               figure
                 img(src='@/assets/curso/tema3/img28.png', alt='Boceto de ejemplo del método de fijación planimétrica de coordenadas cartesianas y triangulación.').m-auto
-    p De igual forma se podrá utilizar equipos de topografía como estaciones totales, distanciómetros láser, escáner topográfico, teodolitos, drones entre otros, sin embargo el 90 % de los casos que se atienden se hacen con cinta métrica y nivel de bolsillo.
+    p De igual forma se podrá utilizar equipos de topografía como estaciones totales, distanciómetros láser, escáner topográfico, teodolitos, drones, entre otros; sin embargo el 90 % de los casos que se atienden se hacen con cinta métrica y nivel de bolsillo.
     .row.align-items-center
       .col-lg-8.mb-4.mb-lg-0
-        p.mb-0 Algunas técnicas para diagramar el evento de tránsito están en realizar un croquis o bosquejo topográfico, utilización de la tabla de medidas como una forma ordenada de presentar la información, método de coordenadas cartesianas, ubicación geográfica (norte) acotar todos los datos de la vía como calzadas, carriles, bermas, aceras, señalización vertical y horizontal, pero los puntos topográficos y sus distancias desde el punto de referencia se deberán realizar en la tabla de medidas. Las mediciones y cálculos a realizarse en los accidentes serán la pendiente, radio de curva, peralte, los cuales tienen fundamento en el manual de diligenciamiento de accidentes de tránsito (IPAT) resolución 11268 e 2012 el cual se puede describir como un protocolo para diligenciamiento del formato.
+        p.mb-0 Algunas técnicas para diagramar el evento de tránsito están en realizar un croquis o bosquejo topográfico, utilización de la tabla de medidas como una forma ordenada de presentar la información, método de coordenadas cartesianas, ubicación geográfica (norte) acotar todos los datos de la vía como calzadas, carriles, bermas, aceras, señalización vertical y horizontal, pero los puntos topográficos y sus distancias desde el punto de referencia se deberán realizar en la tabla de medidas. Las mediciones y cálculos a realizarse en los accidentes serán la pendiente, radio de curva, peralte, los cuales tienen fundamento en el manual de diligenciamiento de accidentes de tránsito (IPAT) resolución 11268 de 2012 el cual se puede describir como un protocolo para diligenciamiento del formato.
       .col-lg-4
         figure
           img(src='@/assets/curso/tema3/img29.png', style="width: 450px" ,alt='').m-auto
