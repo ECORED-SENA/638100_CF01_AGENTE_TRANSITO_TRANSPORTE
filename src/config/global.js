@@ -244,7 +244,7 @@ export default {
         'Ramos Enriquez, H. F., & Quiroga Amaya, L. A. (2017). <em>Investigación de Accidentes de Tránsito en Colombia</em>. Bogotá: Imprenta Nacional.',
       tipo: 'Libro',
       link:
-        'downloads/libro-investigacion-accidentes-de-transito-en-colombia.pdf',
+        'https://www.policia.gov.co/sites/default/files/publicaciones-institucionales/libro-investigacion-accidentes-de-transito-en-colombia.pdf',
     },
     {
       tema: '1. Generalidades del accidente de tránsito',

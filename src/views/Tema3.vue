@@ -492,7 +492,7 @@
         .p-4
           .row.align-items-center
             .col.mb-4.mb-lg-0
-              p.mb-0 El procedimiento de fijación fotográfica debe ser documentado en el formato de policía judicial FPJ 11, en el cual se presentarán las fotografías que harán parte del caso a lo que se le llama el álbum fotográfico, el cual será impreso y anexado a la carpeta de los actos urgentes y las fotografías se descargan en el pc de la entidad y se queman en un CD el cual se pone en cadena de custodia y se envía las fotos al almacén de evidencia o gabinete de fotografía forense de la fiscalía, para estar disponibles en la futura investigación.
+              p.mb-0 El procedimiento de fijación fotográfica debe ser documentado en el formato de policía judicial FPJ 11, en el cual se presentarán las fotografías que harán parte del caso a lo que se le llama el álbum fotográfico, el cual será impreso y anexado a la carpeta de los actos urgentes y las fotografías se descargan en el PC de la entidad y se queman en un CD el cual se pone en cadena de custodia y se envía las fotos al almacén de evidencia o gabinete de fotografía forense de la fiscalía, para estar disponibles en la futura investigación.
             .col-lg-auto
               figure
                 img(src='@/assets/curso/tema3/img14.svg', style="width: 100px" ,alt='').m-auto

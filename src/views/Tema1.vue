@@ -522,7 +522,7 @@
           .row
             .col-12
               p #[b Trayectoria #[em roof vault] (bóveda de teho)]
-              p.mb-4 Roof vault es una trayectoria particular que describe a un peatón al ser embestido por un vehículo que viaja a altas velocidades. Esta trayectoria se puede presentar bajo dos consecuencias, la primera es una aceleración del automóvil durante el contacto y la segunda es la no aplicación de frenos al impacto.
+              p.mb-4 #[em Roof vault] es una trayectoria particular que describe a un peatón al ser embestido por un vehículo que viaja a altas velocidades. Esta trayectoria se puede presentar bajo dos consecuencias, la primera es una aceleración del automóvil durante el contacto y la segunda es la no aplicación de frenos al impacto.
               figure
                 img(src='@/assets/curso/tema1/img27.svg', style="width: 1150px" ,alt='').m-auto
           .row
@@ -848,7 +848,7 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/tema1/img23.png', style="width: 450px" ,alt='').m-auto
-      .py-4.py-md-5(titulo="Ley 769 Art, 149 de 2002" :icono="require('@/assets/curso/tema1/img41.svg')")
+      .py-4.py-md-5(titulo="Ley 769 Art. 149 de 2002" :icono="require('@/assets/curso/tema1/img41.svg')")
         .row
           .col-12
             p #[b Ley 769 Art. 149 de 2002]
